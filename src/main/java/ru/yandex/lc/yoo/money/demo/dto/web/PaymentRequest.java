@@ -1,4 +1,4 @@
-package ru.yandex.lc.yoo.money.demo.dto;
+package ru.yandex.lc.yoo.money.demo.dto.web;
 
 public class PaymentRequest {
 	public int amount;
